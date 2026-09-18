@@ -1,1 +1,0 @@
-# rosane_grade_equivalent
